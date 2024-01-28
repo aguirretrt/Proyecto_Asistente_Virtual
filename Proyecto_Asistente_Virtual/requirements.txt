@@ -1,0 +1,13 @@
+sudo apt install espeak
+sudo apt install libespeak-dev
+sudo apt-get install portaudio19-dev python3-pyaudio
+sudo apt-get install xvf
+
+SpeechRecognition==3.10.0
+gTTS==2.5.0
+pygame==2.5.2
+selenium==4.9.1
+pyaudio==0.2.13
+pyvirtualdisplay==3.0
+webdriver-manager==3.8.6
+undetected_chromedriver==3.4.6
