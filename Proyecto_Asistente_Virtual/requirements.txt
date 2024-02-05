@@ -3,6 +3,7 @@ sudo apt install libespeak-dev
 sudo apt-get install portaudio19-dev python3-pyaudio
 sudo apt-get install xvf
 
+
 SpeechRecognition==3.10.0
 gTTS==2.5.0
 pygame==2.5.2
